@@ -1,0 +1,27 @@
+.login-dark{height:100%;background:url(../../assets/img/star-sky.jpg) 0 0/cover #475d62 fixed;}
+.login-dark form{max-width:320px;width:90%;background-color:#fff;padding:0 40px 40px;border-radius:4px;transform:translate(-50%,-50%);position:absolute;top:50%;left:50%;color:rgb(17, 17, 17);box-shadow:3px 3px 4px rgba(206, 187, 187, 0.2)}
+.login-dark .illustration{text-align:center;padding:0;margin:0; font-size:100px;position:relative;left:30%;top: -85px;width: 100px;height: 100px;}
+.login-dark .illustration i{text-align:center;color:rgb(47, 112, 39);position:relative;left:0;top: 0; border: solid #fff 5px;border-radius: 50%;background-color: rgba(255, 255, 255, .95);}
+.login-dark form .form-control{background:0 0;border:none;border-bottom:1px solid #434a52;border-radius:0;box-shadow:none;outline:0;color:inherit}
+.login-dark form .btn-primary{background:#214a80;border:none;border-radius:4px;padding:11px;box-shadow:none;margin-top:26px;text-shadow:none;outline:0}
+.login-dark form .btn-primary:active,.login-dark form input[type=submit]:hover{background:rgb(45, 168, 45);outline:0}
+.login-dark form .forgot{display:block;text-align:center;font-size:12px;color:#6f7a85;opacity:.9;text-decoration:none}
+.login-dark form .forgot:active,.login-dark form .forgot:hover{opacity:1;text-decoration:none}
+.login-dark form .btn-primary:active{transform:translateY(1px)}
+.login-dark form input[type=submit]{width: 100%;height:35px;font-size: 18px; border: none;outline: none;background-color: rgb(44, 150, 44);color:#fff;margin: 10px auto; border-radius: 1px;}
+.btn{width:100px;display:inline-block;}
+.btn.deplacer{margin-left: 30%;}
+.text-capitalize.text-success.shadow-sm.user{margin-left:-2%}
+.card.shadow-lg.o-hidden.border-0.my-5{margin-left:25%}.p-5{margin-left:17%}
+.text-dark.mb-4{margin-left:0}
+form{margin-left: -5%;}
+
+body {
+    color: #000;
+    overflow-x: hidden;
+    height: 100%;
+    background:url(../../assets/img/star-sky.jpg) 0 0/cover #475d62 fixed;
+    background-repeat: no-repeat;
+}
+
+
